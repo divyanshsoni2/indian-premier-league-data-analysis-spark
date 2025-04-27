@@ -69,6 +69,7 @@ I aim to demonstrate a modern cloud-based data platform using Databricks and Spa
 
 ## 👤 Author
 
-- **Your Name** – Divyansh Prakhar Soni
+- **Divyansh Prakhar Soni** – [GitHub Profile](https://github.com/divyanshsoni2)
+
 
 
