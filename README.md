@@ -2,7 +2,11 @@
 
 ## 📌 Project Overview
 This project focuses on building an end-to-end data pipeline for analyzing Indian Premier League (IPL) cricket data.  
-The architecture uses:
+
+## 🏗️ Architecture
+
+![Architecture](Architecture.png)
+
 - **Amazon S3** for data storage
 - **Databricks** for data processing
 - **Apache Spark** for transformations
