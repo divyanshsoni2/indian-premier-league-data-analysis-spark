@@ -19,7 +19,7 @@ I aim to demonstrate a modern cloud-based data platform using Databricks and Spa
 
 ## 📂 Dataset
 
-- **Source**: [IPL Data Till 2017 – data.world](https://data.world/raghu543/ipl-data-till-2017)
+- **Source**: [IPL Data – data.world](https://data.world/raghu543/ipl-data-till-2017)
 - **Description**:  
   Includes data on matches, players, deliveries, and other aspects from the IPL seasons up to 2017.
 
